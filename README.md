@@ -1,2 +1,2 @@
 # LinkedList
-Here in Linked List All Item Included that mean Insert_at_beginning, Insert_From_End, PopFromBeginning, Pop From End, Count Linked List, Printing All Linked List Data
+Here in the Linked List, All Item Included which means Insert at beginning, Insert From End, PopFromBeginning, Pop From End, Count Linked List, and Printing All Linked List Data.
